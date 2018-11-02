@@ -15,12 +15,12 @@ Seguidamente ejecuto la instrucción `java -jar CrearProcesos.jar 4`, y el resul
 * **Ejecutando en Windows**  
 A continuación pruebo el programa en un SO **Windows 10**. Abro una ventana del simbolo del sistema, me sitúo en la carpeta que contiene el ejecutable de la aplicación y ejecuto la instrucción `java -jar CrearProcesos.jar 5`. En la captura se comprueba su funcionamiento.  
 
-![Ejecutando en Windows](https://github.com/tfendo/psp01_adicional/blob/master/TareaPSP01_adicional/Capturas/CapturaWindows.png)  
+![Ejecutando en Windows](https://github.com/tfendo/psp01_adicional/blob/master/TareaPSP01_adicional/Capturas/CapturaWindows.JPG)  
 
 * **Ejecutando en Linux**  
 Por último accedo a una distro **Ubuntu 16.04** y sigo unos pasos similares. Accedo desde una terminal al archivo .jar del programa y lo ejecuto con la instrucción `java -jar CrearProcesos.jar 3`. El resultado es el siguiente:  
 
-![Ejecutando en Linux](https://github.com/tfendo/psp01_adicional/blob/master/TareaPSP01_adicional/Capturas/CapturaLinux.png)  
+![Ejecutando en Linux](https://github.com/tfendo/psp01_adicional/blob/master/TareaPSP01_adicional/Capturas/CapturaLinux.JPG)  
 
 ***
 
