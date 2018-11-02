@@ -6,21 +6,21 @@ Para probar la portabilidad de la aplicación \"**CrearProcesos**", la he ejecut
 * **Ejecutando en macOS**  
 En primer lugar la he ejecutado desde la terminal de un sistema operativo **macOS Sierra** probando que captura las posibles excepciones adecuadamente.  
 
-![Excepciones macOS]()  
+![Excepciones macOS](https://github.com/tfendo/psp01_adicional/blob/master/TareaPSP01_adicional/Capturas/CapturaExMac.png)  
 
 Seguidamente ejecuto la instrucción `java -jar CrearProcesos.jar 4`, y el resultado se puede apreciar en la siguiente captura:  
 
-![Ejecutando en macOS]()  
+![Ejecutando en macOS](https://github.com/tfendo/psp01_adicional/blob/master/TareaPSP01_adicional/Capturas/CapturaMac.png)  
 
 * **Ejecutando en Windows**  
 A continuación pruebo el programa en un SO **Windows 10**. Abro una ventana del simbolo del sistema, me sitúo en la carpeta que contiene el ejecutable de la aplicación y ejecuto la instrucción `java -jar CrearProcesos.jar 5`. En la captura se comprueba su funcionamiento.  
 
-![Ejecutando en Windows]()  
+![Ejecutando en Windows](https://github.com/tfendo/psp01_adicional/blob/master/TareaPSP01_adicional/Capturas/CapturaWindows.png)  
 
 * **Ejecutando en Linux**  
 Por último accedo a una distro **Ubuntu 16.04** y sigo unos pasos similares. Accedo desde una terminal al archivo .jar del programa y lo ejecuto con la instrucción `java -jar CrearProcesos.jar 3`. El resultado es el siguiente:  
 
-![Ejecutando en Linux]()  
+![Ejecutando en Linux](https://github.com/tfendo/psp01_adicional/blob/master/TareaPSP01_adicional/Capturas/CapturaLinux.png)  
 
 ***
 
